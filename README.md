@@ -31,6 +31,6 @@ I love JavaScript, bots and automating stuff. My main interests outside of codin
 
 [![Kiailandi's github stats](https://github-readme-stats.vercel.app/api?username=Kiailandi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Please contribute and help us expand the italian hackthon list!
+#### Please contribute and help us expand the italian hackathon list!
 
 [![Hackathon Italia](https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-Italia&repo=Hackathon-Italia&show_owner=true&theme=dracula)](https://github.com/hackathon-italia/hackathon-italia)
