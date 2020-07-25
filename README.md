@@ -18,9 +18,10 @@
 <a href="https://instagram.com/tommaso.montefusco/">
   <img align="left" alt="Tommaso Montefusco's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
+<br>
+<br>
 
-<img alt="And here we go" width="100%" src="https://media.giphy.com/media/2GjgvS5vA6y08/giphy.gif" />
+<img alt="And here we go" src="https://media.giphy.com/media/2GjgvS5vA6y08/giphy.gif" />
 
 ### Here you can find a few stats about my profile, it's mostly a way to motivate myself to do more
 
