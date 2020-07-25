@@ -1,4 +1,4 @@
-## Hi there, I am Tommaso *"Kiailandi"* Montefusco and this is my WIP readme file 👋
+### Hi there, I am Tommaso *"Kiailandi"* Montefusco and this is my WIP readme file 👋
 
 <a href="https://twitter.com/mont3bosco/">
   <img align="left" alt="Kiailandi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,11 +19,18 @@
   <img align="left" alt="Tommaso Montefusco's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
+<br/>
 
-### Here you can find a few stats about my profile, it's mostly a way to motivate myself to do more
+I love JavaScript, bots and automating stuff. My main interests outside of coding are [photography](http://tommasomontefusco.me/photography) and esports.
+
+**You can find more about me on my [website](http://tommasomontefusco.me/).**
+
+---
+
+#### Here you can find a few stats about my profile, it's mostly a way to motivate myself to do more.
 
 [![Kiailandi's github stats](https://github-readme-stats.vercel.app/api?username=Kiailandi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Please contribute and help us expand the italian hackthon list!
+#### Please contribute and help us expand the italian hackthon list!
 
-[![Hackathon Italia](https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-Italia&repo=Hackathon-Italia&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Hackathon Italia](https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-Italia&repo=Hackathon-Italia&show_owner=true&theme=dracula)](https://github.com/hackathon-italia/hackathon-italia)
