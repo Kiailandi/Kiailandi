@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/tommaso-montefusco/">
   <img align="left" alt="Kiailandi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Kiailadi">
+<a href="https://github.com/Kiailandi">
   <img align="left" alt="Kiailandi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://stackoverflow.com/users/story/9338396">
