@@ -27,10 +27,6 @@ I love JavaScript, bots and automating stuff. My main interests outside of codin
 
 ---
 
-#### Here you can find a few stats about my profile, it's mostly a way to motivate myself to do more.
+#### I am currently trying to focus on this project, please feel free to contribute!
 
-[![Kiailandi's github stats](https://github-readme-stats.vercel.app/api?username=Kiailandi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Please contribute and help us expand the italian hackathon list!
-
-[![Hackathon Italia](https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-Italia&repo=Hackathon-Italia&show_owner=true&theme=dracula)](https://github.com/hackathon-italia/hackathon-italia)
+[![Frontend developer handbook](https://github-readme-stats.vercel.app/api/pin/?username=kiailandi&repo=frontend-developer-handbook&show_owner=true&theme=dracula)](https://github.com/kiailandi/frontend-developer-handbook)
