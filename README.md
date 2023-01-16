@@ -1,6 +1,6 @@
 ### Hi there, I am Tommaso *"Kiailandi"* Montefusco and this is my WIP readme file 👋
 
-<a href="https://twitter.com/mont3bosco/">
+<a href="https://twitter.com/kiailandi_/">
   <img align="left" alt="Kiailandi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tommaso-montefusco/">
@@ -24,9 +24,3 @@
 I love JavaScript, bots and automating stuff. My main interests outside of coding are [photography](http://tommasomontefusco.me/photography) and esports.
 
 **You can find more about me on my [website](http://tommasomontefusco.me/).**
-
----
-
-#### I am currently trying to focus on this project, please feel free to contribute!
-
-[![Frontend developer handbook](https://github-readme-stats.vercel.app/api/pin/?username=kiailandi&repo=frontend-developer-handbook&show_owner=true&theme=dracula)](https://github.com/kiailandi/frontend-developer-handbook)
