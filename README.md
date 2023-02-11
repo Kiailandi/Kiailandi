@@ -24,3 +24,7 @@
 I love JavaScript, bots and automating stuff. My main interests outside of coding are [photography](http://tommasomontefusco.me/photography) and esports.
 
 **You can find more about me on my [website](http://tommasomontefusco.me/).**
+
+<div align="right">
+  <a href="https://app.daily.dev/Kiailandi"><img src="https://api.daily.dev/devcards/8968c7617b034773a962f6e76e3875d8.png?r=3tg" width="400" alt="Kiailandi's Dev Card"/></a>
+</div>
