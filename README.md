@@ -28,5 +28,5 @@
 
 <div align="center">
   <p>Even if I'm currently not very active outside work I still try to keep up to date in my free time.</p>
-  <a href="https://app.daily.dev/Kiailandi"><img src="https://api.daily.dev/devcards/8968c7617b034773a962f6e76e3875d8.png?r=3tg" width="400" alt="Kiailandi's Dev Card"/></a>
+  <a href="https://app.daily.dev/Kiailandi"><img src="https://github.com/kiailandi/kiailandi/blob/master/devcard.svg" width="400" alt="Kiailandi's Dev Card"/>
 </div>
