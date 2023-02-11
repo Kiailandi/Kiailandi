@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/tommaso-montefusco/">
   <img align="center" alt="Kiailandi's Linkdein" width="30px" src="https://cdn.simpleicons.org/linkedin/ff5f1f" />
 </a>
-<a href="https://stackoverflow.com/users/story/9338396">
-  <img align="center" alt="Kiailandi's StackOverflow" width="30px" src="https://cdn.simpleicons.org/stackoverflow/ff5f1f" />
-</a>
 <a href="https://t.me/Kiailandi">
   <img align="center" alt="Kiailandi's Telegram" width="30px" src="https://cdn.simpleicons.org/telegram/ff5f1f" />
 </a>
