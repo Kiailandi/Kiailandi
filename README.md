@@ -3,11 +3,11 @@
 <br>
 
 <div align="center">
-<a href="https://twitter.com/kiailandi_/">
-  <img align="center" alt="Kiailandi's Twitter" width="30px" src="https://cdn.simpleicons.org/twitter/ff5f1f" />
+<a href="https://x.com/kiailandi_/">
+  <img align="center" alt="Kiailandi's X" width="30px" src="https://cdn.simpleicons.org/x/ff5f1f" />
 </a>
 <a href="https://www.linkedin.com/in/tommaso-montefusco/">
-  <img align="center" alt="Kiailandi's Linkdein" width="30px" src="https://cdn.simpleicons.org/linkedin/ff5f1f" />
+  <img align="center" alt="Kiailandi's LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin/ff5f1f" />
 </a>
 <a href="https://t.me/Kiailandi">
   <img align="center" alt="Kiailandi's Telegram" width="30px" src="https://cdn.simpleicons.org/telegram/ff5f1f" />
