@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hello, I'm Tommaso "Kiailandi" Montefusco</h1>
-  <h3>Software Project Manager 📅 | Frontend Developer 💻 | Photography Enthusiast 📸</h3>
+  <h3>Software Development Manager 📅 | Frontend Developer 💻 | Photography Enthusiast 📸</h3>
   <h5>
-    As a software project manager I oversee planning, execution, and delivery of software projects.
+    As a software development manager I oversee planning, execution, and delivery of software projects.
     <br/>
     As a developer I am passioned about JavaScript, automating stuff and code quality.
     <br/>
